@@ -1,0 +1,14 @@
+Dear X,
+
+My name is Estefanía León, I am a software developer at Sopra Steria working on GPCC project. I am writing
+because we need to upgrade XAP Gigaspaces from version 10 to version 12. Apparently, it is mandatory
+to upgrade to version 11 first and then to version 12, could you please confirm that? We would also
+be grateful if you could provide some general guidelines on best practices to upgrade the software.
+Any links to technical resources will be appreciated as well.
+
+Thank you for your time and efforts.
+
+Kind regards,
+
+E. León.
+
